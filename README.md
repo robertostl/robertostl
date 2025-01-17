@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
-<h3 align="center">A passionate data scientist from Spain</h3>
+<h3 align="center">a Data Scientist with expertise in predictive modeling, machine learning, and data analytics. With over three years of experience in the financial and insurance sectors, I focus on creating impactful solutions through data.
+
+Here, you'll find my projects showcasing real-world applications of data analytics and visualizations.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
