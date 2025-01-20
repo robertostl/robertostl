@@ -22,7 +22,7 @@ Here, you'll find my projects showcasing real-world applications of AI, predicti
 ---
 
 ### 📂 **Highlighted Projects**
-1. **[Football Analytics Models](#)**  
+1. **[Football Analytics Models](https://github.com/robertostl/Football-Analytics-International-Team-Performance)**  
    - Analyzed football match data to build predictive models for match outcomes using Python.  
    - Tools: Scikit-learn, Pandas, Matplotlib.
 
