@@ -22,15 +22,7 @@ Here, you'll find my projects showcasing real-world applications of AI, predicti
 ---
 
 ### 📂 **Highlighted Projects**
-1. **[Propensity Models for Insurance Products](#)**  
-   - Built predictive models using Python to analyze customer behavior and optimize insurance targeting strategies.  
-   - Achieved a [specific outcome, e.g., "20% increase in campaign ROI"].
-
-2. **[Interactive Power BI Dashboards](#)**  
-   - Developed dashboards for campaign analysis and customer profiling, streamlining decision-making processes.  
-   - Tools: Power BI, SQL.  
-
-3. **[Football Analytics Models](#)**  
+1. **[Football Analytics Models](#)**  
    - Analyzed football match data to build predictive models for match outcomes using Python.  
    - Tools: Scikit-learn, Pandas, Matplotlib.
 
